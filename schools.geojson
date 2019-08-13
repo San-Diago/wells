@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "School": "Upham", "Latitude": 42.311197, "Longitude": -71.299524 }, "geometry": { "type": "Point", "coordinates": [ -71.299524, 42.311197 ] } },
+{ "type": "Feature", "properties": { "School": "Hardy", "Latitude": 42.304249, "Longitude": -71.310514 }, "geometry": { "type": "Point", "coordinates": [ -71.310514, 42.304249 ] } },
+{ "type": "Feature", "properties": { "School": "Hunnewell", "Latitude": 42.295424, "Longitude": -71.290315 }, "geometry": { "type": "Point", "coordinates": [ -71.290315, 42.295424 ] } },
+{ "type": "Feature", "properties": { "School": "Sprague", "Latitude": 42.304262, "Longitude": -71.298008 }, "geometry": { "type": "Point", "coordinates": [ -71.298008, 42.304262 ] } },
+{ "type": "Feature", "properties": { "School": "Bates", "Latitude": 42.312657, "Longitude": -71.30615 }, "geometry": { "type": "Point", "coordinates": [ -71.30615, 42.312657 ] } },
+{ "type": "Feature", "properties": { "School": "Fiske", "Latitude": 42.312262, "Longitude": -71.24793 }, "geometry": { "type": "Point", "coordinates": [ -71.24793, 42.312262 ] } },
+{ "type": "Feature", "properties": { "School": "Schofield", "Latitude": 42.320658, "Longitude": -71.25338 }, "geometry": { "type": "Point", "coordinates": [ -71.25338, 42.320658 ] } }
+]
+}
